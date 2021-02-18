@@ -1,115 +1,93 @@
-baseURL       = "https://gallant-dijkstra-175383.netlify.app"
-languageCode  = "en-us"
-title         = "Vimal | AIML Portfolio"
-theme         = "roxo"
+baseURL = "https://gallant-dijkstra-175383.netlify.app"
+canonifyURLs = true
+languageCode = "en-us"
 summarylength = 25
-canonifyURLs  = true
-
-# Site Menus
-[menu]
-  # Navbar Menus
-  [[menu.nav]]
-    name    = "Home"
-    url     = ""
-    weight  = 1
-  [[menu.nav]]
-    name    = "About"
-    url     = "about"
-    weight  = 2
-  [[menu.nav]]
-    name    = "Portfolio"
-    url     = "portfolio"
-    weight  = 3
-  [[menu.nav]]
-    name    = "Report"
-    url     = "blog"
-    weight  = 4
-  [[menu.nav]]
-    name    = "Get in touch"
-    url     = "contact"
-    weight  = 5
-
-# Site Params
+theme = "roxo"
+title = "Vimal | AIML Portfolio"
+[[menu.nav]]
+name = "Home"
+url = ""
+weight = 1
+[[menu.nav]]
+name = "About"
+url = "about"
+weight = 2
+[[menu.nav]]
+name = "Portfolio"
+url = "portfolio"
+weight = 3
+[[menu.nav]]
+name = "Report"
+url = "blog"
+weight = 4
+[[menu.nav]]
+name = "Get in touch"
+url = "contact"
+weight = 5
 [params]
-  logo = "images/AI-footer.gif"
-  dateFormat = "26 FEB 1994"
-  # Meta data
-  description = "Roxo Hugo themes | Design Agency Template by StaticMania"
-  author = "StaticMania"
-  # Google Analitycs
-  googleAnalitycsID = "Your ID"
-  # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://forms.gle/bGxJ8rLmLR5FinCC7"
-
-  # Navbar Action Button
-  [params.navAction]
-    status  = true
-    name    = "Get in touch"
-    url     = "contact"
-
-
-  # Banner Section
-  [params.banner]
-    enable                = true
-    background_image      = "images/backgrounds/AIML Portfolio.gif"
-    heading               = ""
-    tagline               = ""
-    primary_button        = "See My Works"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Me"
-    secondary_button_url  = "contact"
-
-  [params.portfolio]
-    enable    = true
-    title     = "MY RECENT WORKS"
-    subtitle  = "Bulding and learning complex AI models since 2020"
-
-  [params.call_to_action]
-    enable              = true
-    background_image    = "images/backgrounds/cta-background.gif"
-    title               = "LET’S WORK TOGETHER"
-    primary_button      = "Hire me"
-    primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
-    secondary_button_url = "portfolio"
-
-  [params.footer]
-    # Footer Contact Info
-    [params.footer.contactInfo]
-      title   = "Contact Info"
-      address = "ALUVA,KERALA"
-      email   = "vimalranjeev9@gmail.com"
-      # Footer Sitemap
-      [params.footer.sitemap]
-        title   = "Sitemap"
-        [[params.footer.sitemap.link]]
-          name = "About Me"
-          url  = "about"
-        [[params.footer.sitemap.link]]
-          name = "Projects"
-          url  = "portfolio"
-        [[params.footer.sitemap.link]]
-          name = "blog"
-          url  = "blog"
-        [[params.footer.sitemap.link]]
-          name = "Contact"
-          url  = "contact"
-      # Footer Social Media
-      [params.footer.social]
-        title   = "Social Media"
-        [[params.footer.social.link]]
-          name = "LinkedIN"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "GitHub"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Kaggle"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Mail"
-          url  = "#"
-      # Footer Service
-      [params.footer.service]
-        title       = "I try to build:"
-        description = "machine learning model and deep learrning model by obtaining dataset provided during the course, kaggle and UCI ML repository."
+author = "StaticMania"
+dateFormat = "26 FEB 1994"
+description = "Roxo Hugo themes | Design Agency Template by StaticMania"
+formspreeFormUrl = "https://formspree.io/f/xrgovlbd"
+googleAnalitycsID = "Your ID"
+logo = "images/AI-footer.gif"
+[params.banner]
+background_image = "images/backgrounds/AIML Portfolio.gif"
+enable = true
+heading = ""
+primary_button = "See My Works"
+primary_button_url = "portfolio"
+secondary_button = "Connect with Me"
+secondary_button_url = "contact"
+tagline = ""
+[params.call_to_action]
+background_image = "images/backgrounds/cta-background.gif"
+enable = true
+primary_button = "Hire me"
+primary_button_url = "contact"
+secondary_button = "Not Convinced"
+secondary_button_url = "portfolio"
+title = "LET’S WORK TOGETHER"
+[params.footer.contactInfo]
+address = "ALUVA,KERALA"
+email = "vimalranjeev9@gmail.com"
+title = "Contact Info"
+[params.footer.service]
+description = "machine learning model and deep learrning model by obtaining dataset provided during the course, kaggle and UCI ML repository."
+title = "I try to build:"
+[params.footer.sitemap]
+title = "Sitemap"
+[[params.footer.sitemap.link]]
+name = "About Me"
+url = "about"
+[[params.footer.sitemap.link]]
+name = "Projects"
+url = "portfolio"
+[[params.footer.sitemap.link]]
+name = "blog"
+url = "blog"
+[[params.footer.sitemap.link]]
+name = "Contact"
+url = "contact"
+[params.footer.social]
+title = "Social Media"
+[[params.footer.social.link]]
+name = "LinkedIN"
+url = "#"
+[[params.footer.social.link]]
+name = "GitHub"
+url = "#"
+[[params.footer.social.link]]
+name = "Kaggle"
+url = "#"
+[[params.footer.social.link]]
+name = "Mail"
+url = "#"
+[params.navAction]
+name = "Get in touch"
+status = true
+url = "contact"
+[params.portfolio]
+enable = true
+subtitle = "Bulding and learning complex AI models since 2020"
+title = "MY RECENT WORKS"
