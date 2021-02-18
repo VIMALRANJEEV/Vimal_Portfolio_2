@@ -1,0 +1,11 @@
+enable : true
+heading : "THE PROOF IS IN THE PUDDING!"
+counter_item:
+  - title: "Courses done"
+    number: "3"
+
+  - title: "Projects Completed"
+    number: "13"
+
+  - title: "Years of experience"
+    number: "1"

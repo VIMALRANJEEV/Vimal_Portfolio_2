@@ -1,0 +1,4 @@
+enable        : true
+title         : "Who trust our judgment"
+client_logos  : 
+  ["images/clients/Scikit_learn_logo_small.svg.png", "images/clients/colab.png", "images/clients/Matplotlib_logo.svg.png", "images/clients/TensorFlowLogo.svg.png", "images/clients/Plotly-logo-01-square.png", "images/clients/Jupyter_logo.svg.png", "images/clients/Keras_logo.svg.png", "images/clients/NumPy_logo_.svg.png", "images/clients/Python_logo_and_wordmark.svg.png", "images/clients/Pandas_logo.svg.png"]

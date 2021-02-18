@@ -1,0 +1,22 @@
+enable  : true
+title   : EDUCATION.
+members  :
+  - image       : images/team/team-member-one.jpg
+    name        : GOOGLE - COURSERA
+    designation : PROFESSIONAL CEERTIFICATE IN GOOGLE IT AUTOMATION WITH PYTHON
+    year        : 2020 - 2021
+
+  - image       : images/team/team-member-one.jpg
+    name        : IBM - COURSERA
+    designation : PROFESSIONAL CERTIFICATE IN MACHINE LEARNING
+    year        : 2020 - 2021
+
+  - image       : images/team/team-member-one.jpg
+    name        : UNIVERSITY OF TEXAS, AUSTIN AND GREAT LAKES INTSTITUTE OF MANAGEMENT
+    designation : POST GRADUATE DIMPLOMA IN AIML
+    year        : 2020 - 2021
+
+  - image       : images/team/team-member-one.jpg
+    name        : APJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY
+    designation : BACHELOR IN MECHANICAL ENGINEERING
+    year        : 2015 - 2020
