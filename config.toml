@@ -39,7 +39,7 @@ canonifyURLs  = true
   # Google Analitycs
   googleAnalitycsID = "Your ID"
   # We're using formspree.io for form handling, paste your formspree url below
-  formspreeFormUrl  = "https://formspree.io/f/xrgovlbd"
+  formspreeFormUrl  = "https://forms.gle/bGxJ8rLmLR5FinCC7"
 
   # Navbar Action Button
   [params.navAction]
