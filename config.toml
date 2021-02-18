@@ -1,4 +1,4 @@
-baseURL       = ""
+baseURL       = "https://gallant-dijkstra-175383.netlify.app"
 languageCode  = "en-us"
 title         = "Vimal | AIML Portfolio"
 theme         = "roxo"
