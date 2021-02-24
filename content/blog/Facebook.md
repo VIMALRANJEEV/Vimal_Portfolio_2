@@ -1,0 +1,48 @@
+---
+title: "Facebook data analysis report"
+date: 2020-11-09T13:45:06+06:00
+image: images/blog/Facebook.png
+feature_image: images/blog/facebook-1.png
+---
+
+### Brief description of the data set and a summary of its attributes.
+Title: Facebook performance metrics.\
+Sources: Created by: Sérgio Moro, Paulo Rita and Bernardo Vala (ISCTE-IUL) @ 2016 \
+Past Usage: The full dataset was described and analyzed in S. Moro, P. Rita and B. Vala.
+
+Relevant Information: The data is related to posts' published during the year of 2014 on the
+Facebook's page of a renowned cosmetics brand. This dataset contains 500 of the 790 rows
+and part of the features analyzed by Moro et al. (2016). The remaining were omitted due to
+confidentiality issues. \
+Number of Instances: 500 \
+Number of Attributes: 19 \
+I got this dataset from UCI public dataset.
+### Summary of attribute:
+Page total likes : This attribute shows the total number of likes pages have received \
+Category: To identify the category of page \
+Post Month: Month of the post \
+Post Weekday: Day on which the post was uploaded \
+Post Hour: Identifies the post time \
+Paid: Whether paid for promotion or not \
+Lifetime Post Total Reach: Total reach of each post in life time. \
+Lifetime Post Total Impressions: Total number of people who saw the post. \
+Lifetime Engaged Users: Total number of people who clicked on post \
+Lifetime Post Consumers: total number of people who saw your post and bought something. \
+Lifetime Post Consumptions: Total number of people who visit your post \
+Lifetime Post Impressions by people who have liked your Page \
+Lifetime Post reach by people who like your Page: reached to other people by people who
+liked the post. \
+Lifetime People who have liked your Page and engaged with your post: Regular visitors of
+the post. \
+Comment: Total number of comments for each post \
+Like: number of likes for each post \
+Share: number of share(forwards) of the post. \
+Total Interactions: Total number of people who have interacted with the post. \
+### Initial plan for data exploration
+The plan for data exploration was to first identifying the data types of attributes. \
+Then identifying the mean, median, minimum, maximum and the IQR of each attribute. \
+Late the attributes where visualized using distribution plot, box plot(for identifying outliers)
+and count plots according to data types of the attributes.
+### Actions taken for data cleaning and feature engineering
+The data was cleaning by filling the missing values with the mean of the columns and the
+outliers where bought to 3rd inter quartile values of the columns

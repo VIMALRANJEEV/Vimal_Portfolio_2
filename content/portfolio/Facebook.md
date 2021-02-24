@@ -4,7 +4,7 @@ date: 2019-12-23T15:56:43+06:00
 type: portfolio
 image: "images/projects/Facebook.png"
 category: ["DATA ANALYSIS"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/facebook-1.png", "images/projects/facebook-2.png"]
 ---
 
 ABOUT THE DATASET

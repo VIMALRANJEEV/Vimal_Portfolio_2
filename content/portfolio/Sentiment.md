@@ -4,7 +4,7 @@ date: 2019-12-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/IMDB.jpg"
 category: ["Sentiment analysis(NLP)"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/Sentiment-1.png", "images/projects/sentiment-2.png"]
 ---
 
 ABOUT THE DATASET

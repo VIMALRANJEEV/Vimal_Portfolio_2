@@ -4,7 +4,7 @@ date: 2019-12-23T15:44:46+06:00
 type: portfolio
 image: "images/projects/recognition.jpg"
 category: ["COMPUTER VISION"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
+project_images: ["images/projects/recognition-1.png", "images/projects/recognition-2.png"]
 ---
 
 ABOUT THE DATASET
