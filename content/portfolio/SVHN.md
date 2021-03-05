@@ -19,4 +19,4 @@ CITATION
 
 Yuval Netzer, Tao Wang, Adam Coates, Alessandro Bissacco, Bo Wu, Andrew Y. Ng
 
-!\[PDF\]([http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf "http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf")) 
+\[PDF\]([http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf](http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf "http://ufldl.stanford.edu/housenumbers/nips2011_housenumbers.pdf")) 
