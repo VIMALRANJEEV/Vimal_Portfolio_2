@@ -1,21 +1,23 @@
 ---
-title: "FACEBOOK ANALYSIS"
-date: 2019-12-23T15:56:43+06:00
-type: portfolio
-image: "images/projects/Facebook.png"
-category: ["DATA ANALYSIS"]
-project_images: ["images/projects/facebook-1.png", "images/projects/facebook-2.png"]
----
+title: FACEBOOK ANALYSIS
+date: 2019-12-23T15:56:43.000+06:00
+image: images/projects/Facebook.png
+category:
+- DATA ANALYSIS
+project_images:
+- images/projects/facebook-1.png
+- images/projects/facebook-2.png
 
+---
 ABOUT THE DATASET
 
-The data is related to posts' published during the year of 2014 on the Facebook's page of a renowned cosmetics brand.
+The data is related to posts' published during the year 2014 on Facebook's page of a renowned cosmetics brand.
 
 CITATION
 
-Sérgio Moro, Paulo Rita and Bernardo Vala (ISCTE-IUL) \
+Sérgio Moro, Paulo Rita and Bernardo Vala (ISCTE-IUL) 
 
-*[citation]("https://doi.org/10.1016/j.jbusres.2016.02.010")*
+\[[citation](https://doi.org/10.1016/j.jbusres.2016.02.010)\]
 
 ABOUT THE COMPANY
 
@@ -27,8 +29,8 @@ Facebook can be accessed from devices with Internet connectivity, such as person
 
 FOUNDERS
 
-Mark zuckerberg \
-Eduardo Saverin \
-Andrew McCollum  \
-Dustin Moskovitz \
+Mark zuckerberg   
+Eduardo Saverin   
+Andrew McCollum    
+Dustin Moskovitz   
 Chris Hughes.
