@@ -15,7 +15,7 @@ Everyday a million products are being recommended to users based on popularity a
 
 ACKNOWLEDGEMENT
 
-Amazon Reviews data *[SITE]"http://jmcauley.ucsd.edu/data/amazon/"*
+Amazon Reviews data _\[_[_SITE_](http://jmcauley.ucsd.edu/data/amazon/)_\]_
 
 ABOUT AMAZON
 
