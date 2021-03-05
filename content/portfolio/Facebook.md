@@ -1,5 +1,5 @@
 ---
-title: FACEBOOK ANALYSIS
+title: Facebook Analysis
 date: 2019-12-23T15:56:43.000+06:00
 image: images/projects/Facebook.png
 category:
