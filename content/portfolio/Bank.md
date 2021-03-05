@@ -1,5 +1,5 @@
 ---
-title: BANK
+title: Bank
 date: 2019-12-23T15:55:44.000+06:00
 image: images/projects/bank.png
 category:
