@@ -5,7 +5,6 @@ image: images/projects/bank.png
 category:
 - SUPERVISED LEARNING
 project_images:
-- "/images/bank-2.png"
 - "/images/bank-1.png"
 
 ---
