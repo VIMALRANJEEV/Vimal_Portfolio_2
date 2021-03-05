@@ -4,7 +4,9 @@ date: 2019-12-23T15:58:10.000+06:00
 image: images/projects/Parkinsons.png
 category:
 - Ensemble techniques
-project_images: []
+project_images:
+- "/images/parkinson-1.png"
+- "/images/parkinson-2.png"
 
 ---
 ABOUT THE DATASET
