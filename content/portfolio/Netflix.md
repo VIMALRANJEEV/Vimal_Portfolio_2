@@ -1,12 +1,14 @@
 ---
-title: "Netflix stock price VS Dow jones index"
-date: 2019-12-23T15:44:46+06:00
-type: portfolio
-image: "images/projects/Netflix.png"
-category: ["DATA ANALYSIS"]
-project_images: ["images/projects/Netflix-1.png", "images/projects/Netflix-2.png"]
----
+title: Netflix Stock Price VS Dow Jones Index
+date: 2019-12-23T15:44:46.000+06:00
+image: images/projects/Netflix.png
+category:
+- DATA ANALYSIS
+project_images:
+- images/projects/Netflix-1.png
+- images/projects/Netflix-2.png
 
+---
 ABOUT THE DATASET
 
 I used the Dow Jones Industrial Average to compare the Netflix stock to the later stock market.
