@@ -4,7 +4,9 @@ date: 2019-12-23T15:44:46.000+06:00
 image: images/projects/concrete.jpg
 category:
 - FEATURIZATION AND MODEL TUNING
-project_images: []
+project_images:
+- "/images/concrete-1.png"
+- "/images/concrete-2.png"
 
 ---
 ABOUT THE DATASET
