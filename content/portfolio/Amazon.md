@@ -4,7 +4,9 @@ date: 2019-12-23T15:44:46.000+06:00
 image: images/projects/amazon.png
 category:
 - RECOMMENDATION SYSTEM
-project_images: []
+project_images:
+- "/images/amazon-1.png"
+- "/images/amazon-2.png"
 
 ---
 ABOUT THE DATASET
