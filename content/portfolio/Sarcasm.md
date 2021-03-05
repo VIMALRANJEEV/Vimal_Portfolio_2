@@ -1,12 +1,12 @@
 ---
-title: "SARCASM DETECTION"
-date: 2019-12-23T15:44:46+06:00
-type: portfolio
-image: "images/projects/sarcasm.jpg"
-category: ["NLP"]
-project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
----
+title: SARCASM DETECTION
+date: 2019-12-23T15:44:46.000+06:00
+image: images/projects/sarcasm.jpg
+category:
+- NLP
+project_images: []
 
+---
 ABOUT THE DATASET
 
 Past studies in Sarcasm Detection mostly make use of Twitter datasets collected using hashtag based supervision but such datasets are noisy in terms of labels and language. Furthermore, many tweets are replies to other tweets and detecting sarcasm in these requires the availability of contextual tweets.
