@@ -1,5 +1,5 @@
 ---
-title: AMAZON RECOMMENDATION SYSTEM
+title: Amazon Recommendation System
 date: 2019-12-23T15:44:46.000+06:00
 image: images/projects/amazon.png
 category:
