@@ -1,12 +1,14 @@
 ---
-title: "AIRBNB ROOM COST PREDICTION"
-date: 2019-12-23T20:56:42+06:00
-type: portfolio
-image: "images/projects/airbnb.jpg"
-category: ["SUPERVISED LEARNING"]
-project_images: ["images/projects/airbnb-1.png", "images/projects/airbnb-2.png"]
----
+title: Airbnb Room Cost Prediction
+date: 2019-12-23T20:56:42.000+06:00
+image: images/projects/airbnb.jpg
+category:
+- SUPERVISED LEARNING
+project_images:
+- images/projects/airbnb-1.png
+- images/projects/airbnb-2.png
 
+---
 ABOUT THE DATASET
 
 Since 2008, guests and hosts have used Airbnb to expand on traveling possibilities and present more unique, personalized way of experiencing the world. This dataset describes the listing activity and metrics in NYC, NY for 2019.
