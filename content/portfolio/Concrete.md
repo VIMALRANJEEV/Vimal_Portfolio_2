@@ -1,5 +1,5 @@
 ---
-title: Concrete strength
+title: Concrete Strength
 date: 2019-12-23T15:44:46.000+06:00
 image: images/projects/concrete.jpg
 category:

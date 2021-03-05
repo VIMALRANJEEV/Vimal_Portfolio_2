@@ -1,5 +1,5 @@
 ---
-title: Parkison disease
+title: Parkison Disease
 date: 2019-12-23T15:58:10.000+06:00
 image: images/projects/Parkinsons.png
 category:
