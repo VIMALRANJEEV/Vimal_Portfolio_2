@@ -5,6 +5,7 @@ image: images/projects/Parkinsons.png
 category:
 - Ensemble techniques
 project_images:
+- "/images/parkinson-1.png"
 - "/images/parkinson-2.png"
 
 ---
