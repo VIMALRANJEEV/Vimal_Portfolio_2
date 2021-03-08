@@ -76,7 +76,7 @@ name = "LinkedIN"
 url = "https://www.linkedin.com/in/vimal-ranjeev-258131158/"
 [[params.footer.social.link]]
 name = "GitHub"
-url = "#"
+url = "https://github.com/VIMALRANJEEV"
 [[params.footer.social.link]]
 name = "Kaggle"
 url = "#"
