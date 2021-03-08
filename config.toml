@@ -64,7 +64,7 @@ url = "about"
 name = "Projects"
 url = "portfolio"
 [[params.footer.sitemap.link]]
-name = "blog"
+name = "Blog"
 url = "blog"
 [[params.footer.sitemap.link]]
 name = "Contact"
@@ -79,9 +79,6 @@ name = "GitHub"
 url = "#"
 [[params.footer.social.link]]
 name = "Kaggle"
-url = "#"
-[[params.footer.social.link]]
-name = "Mail"
 url = "#"
 [params.navAction]
 name = "Get in touch"
