@@ -13,20 +13,18 @@ Past studies in Sarcasm Detection mostly make use of Twitter datasets collected 
 
 To overcome the limitations related to noise in Twitter datasets, this News Headlines dataset for Sarcasm Detection is collected from two news website. The Onion aims at producing sarcastic versions of current events and we collected all the headlines from News in Brief and News in Photos categories (which are sarcastic). We collect real (and non-sarcastic) news headlines from HuffPost.
 
-This new dataset has following advantages over the existing Twitter datasets:
+This new dataset has the following advantages over the existing Twitter datasets:
 
-    Since news headlines are written by professionals in a formal manner, there are no spelling mistakes and informal usage. This reduces the sparsity and also increases the chance of finding pre-trained embeddings.
+Since news headlines are written by professionals in a formal manner, there are no spelling mistakes and informal usage. This reduces the sparsity and also increases the chance of finding pre-trained embeddings.
 
-    Furthermore, since the sole purpose of The Onion is to publish sarcastic news, we get high-quality labels with much less noise as compared to Twitter datasets.
+Furthermore, since the sole purpose of The Onion is to publish sarcastic news, we get high-quality labels with much less noise as compared to Twitter datasets.
 
-    Unlike tweets which are replies to other tweets, the news headlines we obtained are self-contained. This would help us in teasing apart the real sarcastic elements.
-
+Unlike tweets which are replies to other tweets, the news headlines we obtained are self-contained. This would help us in teasing apart the real sarcastic elements.
 
 CITATION
 
-
-Title=Sarcasm Detection using Hybrid Neural Network \
-Author= Misra, Rishabh and Arora, Prahal \
-Journal= arXiv preprint arXiv:1908.07414 \
+Title=Sarcasm Detection using Hybrid Neural Network   
+Author= Misra, Rishabh and Arora, Prahal   
+Journal= arXiv preprint arXiv:1908.07414   
 Year=2019
-*[LINK TO BOOK]("rishabhmisra.github.io/publications")*
+[_LINK TO BOOK_](%22rishabhmisra.github.io/publications%22)
