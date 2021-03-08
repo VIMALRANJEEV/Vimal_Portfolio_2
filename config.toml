@@ -73,7 +73,7 @@ url = "contact"
 title = "Social Media"
 [[params.footer.social.link]]
 name = "LinkedIN"
-url = "#"
+url = "https://www.linkedin.com/in/vimal-ranjeev-258131158/"
 [[params.footer.social.link]]
 name = "GitHub"
 url = "#"
