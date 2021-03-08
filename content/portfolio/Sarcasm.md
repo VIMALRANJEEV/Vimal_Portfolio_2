@@ -23,8 +23,8 @@ Unlike tweets which are replies to other tweets, the news headlines we obtained 
 
 CITATION
 
-Title=Sarcasm Detection using Hybrid Neural Network   
-Author= Misra, Rishabh and Arora, Prahal   
-Journal= arXiv preprint arXiv:1908.07414   
+Title=Sarcasm Detection using Hybrid Neural Network  
+Author= Misra, Rishabh and Arora, Prahal  
+Journal= arXiv preprint arXiv:1908.07414  
 Year=2019
-[_LINK TO BOOK_](%22rishabhmisra.github.io/publications%22)
+[_LINK TO BOOK_](rishabhmisra.github.io/publications)
