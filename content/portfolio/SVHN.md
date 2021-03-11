@@ -26,3 +26,5 @@ ABOUT IMAGE RECOGNITION
 Image recognition refers to technologies that identify places, logos, people, objects, buildings, and several other variables in digital images. It may be very easy for humans like you and me to recognise different images, such as images of animals. We can easily recognise the image of a cat and differentiate it from an image of a horse. But it may not be so simple for a computer.
 
 A digital image is an image composed of picture elements, also known as pixels, each with finite, discrete quantities of numeric representation for its intensity or grey level. So the computer sees an image as numerical values of these pixels and in order to recognise a certain image, it has to recognise the patterns and regularities in this numerical data.
+
+\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/SVHN/SVHN.ipynb)\]\[[PDF](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/SVHN/SVHN.pdf)\]
