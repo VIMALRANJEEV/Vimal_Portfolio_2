@@ -20,3 +20,5 @@ This dataset was provided to me as part of my AIML course. Thanks to my faculty
 ABOUT CONCRETE
 
 Concrete is a composite material composed of fine and coarse aggregate bonded together with a fluid cement (cement paste) that hardens (cures) over time. In the past, lime-based cement binders, such as lime putty, were often used but sometimes with other hydraulic cement, such as a calcium aluminate cement or with Portland cement to form Portland cement concrete (named for its visual resemblance to Portland stone). Many other non-cementitious types of concrete exist with other methods of binding aggregate together, including asphalt concrete with a bitumen binder, which is frequently used for road surfaces, and polymer concretes that use polymers as a binder.
+
+\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Concrete/Concrete(FMST).ipynb)\]\[[PDF](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Concrete/Concrete.pdf)\]
