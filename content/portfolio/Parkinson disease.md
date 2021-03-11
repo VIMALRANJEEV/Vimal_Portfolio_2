@@ -16,3 +16,5 @@ Parkinson’s Disease (PD) is a degenerative neurological disorder marked by dec
 ACKNOWLEDGEMENT
 
 This dataset was provided to me as part of my AIML course. Thanks to my faculty
+
+\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Parkinson/Parkinsons(ensemble%20techniques).ipynb)\]\[[PDF](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Parkinson/Parkinson.pdf)\]
