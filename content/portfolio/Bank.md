@@ -20,3 +20,5 @@ This dataset was provided to me as part of my AIML course. Thanks to my faculty
 ABOUT BANK
 
 A bank is a financial institution licensed to receive deposits and make loans. Banks may also provide financial services such as wealth management, currency exchange, and safe deposit boxes. There are several different kinds of banks including retail banks, commercial or corporate banks, and investment banks. In most countries, banks are regulated by the national government or central bank.
+
+\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Bankloan/Bank%20_loan(supervised%20learning).ipynb)\]\[[PDF](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Bankloan/Bank%20loan.pdf)\]
