@@ -15,7 +15,7 @@ The data is related to posts' published during the year 2014 on Facebook's page 
 
 CITATION
 
-Sérgio Moro, Paulo Rita and Bernardo Vala (ISCTE-IUL) 
+Sérgio Moro, Paulo Rita and Bernardo Vala (ISCTE-IUL)
 
 \[[citation](https://doi.org/10.1016/j.jbusres.2016.02.010)\]
 
@@ -29,8 +29,10 @@ Facebook can be accessed from devices with Internet connectivity, such as person
 
 FOUNDERS
 
-Mark zuckerberg   
-Eduardo Saverin   
-Andrew McCollum    
-Dustin Moskovitz   
+Mark Zuckerberg  
+Eduardo Saverin  
+Andrew McCollum  
+Dustin Moskovitz  
 Chris Hughes.
+
+\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/IBM/Facebook/Facebook.ipynb)\]\[[PDF](https://github.com/VIMALRANJEEV/my_work/blob/master/IBM/Facebook/Facebook.pdf)\]
