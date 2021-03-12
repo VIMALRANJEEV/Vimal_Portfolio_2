@@ -30,4 +30,4 @@ FOUNDERS
 Brian Chesky  
 Joe Gebbia
 
-\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/IBM/Airbnb/Airbnb_supervised.ipynb)\]
+\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/IBM/Airbnb/Airbnb_supervised.ipynb)\]\[[PDF](https://github.com/VIMALRANJEEV/my_work/blob/master/IBM/Airbnb/Airbnb_supervised.pdf)\]
