@@ -31,4 +31,4 @@ Image segmentation is a commonly used technique in digital image processing and 
 
 Image segmentation involves converting an image into a collection of regions of pixels that are represented by a mask or a labelled image. By dividing an image into segments, you can process only the important segments of the image instead of processing the entire image. \[[More](https://in.mathworks.com/discovery/image-segmentation.html)\]
 
-\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Face%20mask%20segmentation/Face_Mask_Prediction_(U_net).ipynb)\]\[[PDF](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Face%20mask%20segmentation/Face%20mask%20segmentation.pdf)\]
+\[[Code](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Face%20mask%20segmentation/Face_Mask_Prediction_(U_net).ipynb)\]\[[PDF](https://github.com/VIMALRANJEEV/my_work/blob/master/Greatlearning/Sarcasm%20Detection/Project_on_Sarcasm_Detection.pdf)\]
