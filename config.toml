@@ -1,4 +1,4 @@
-baseURL = "http://aimind.co.in"
+baseURL = "https://aimind.co.in/"
 canonifyURLs = true
 languageCode = "en-us"
 summarylength = 25
