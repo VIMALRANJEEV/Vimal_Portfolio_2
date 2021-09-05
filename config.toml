@@ -32,7 +32,7 @@ formspreeFormUrl = "https://formspree.io/f/xrgovlbd"
 googleAnalitycsID = "Your ID"
 logo = "images/ai.jpg"
 [params.banner]
-background_image = "images/backgrounds/ai.jpg"
+background_image = "/images/ai.jpg"
 enable = true
 heading = ""
 primary_button = "See My Works"
