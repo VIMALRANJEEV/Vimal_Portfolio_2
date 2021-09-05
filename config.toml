@@ -34,7 +34,7 @@ logo = "images/AI.gif"
 [params.banner]
 background_image = "/images/ai.jpg"
 enable = true
-heading = ""
+heading = "AIML PORTFOLIO"
 primary_button = "See My Works"
 primary_button_url = "portfolio"
 secondary_button = "Connect with Me"
