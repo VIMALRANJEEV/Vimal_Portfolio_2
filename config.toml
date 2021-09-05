@@ -52,9 +52,6 @@ title = "LET’S WORK TOGETHER"
 address = "ALUVA,KERALA"
 email = "vimalranjeev9@gmail.com"
 title = "Contact Info"
-[params.footer.service]
-description = "machine learning model and deep learrning model by obtaining dataset provided during the course, kaggle and UCI ML repository."
-title = "I try to build:"
 [params.footer.sitemap]
 title = "Sitemap"
 [[params.footer.sitemap.link]]
